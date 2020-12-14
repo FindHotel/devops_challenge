@@ -26,7 +26,7 @@ Tips from your tech lead:
 
 Tips from your P.O.:
 
-- Try to deliver as much as you can in a reasonable amount of hours. Previous attempts took on between 4 and 8 hours;
+- Try to deliver as much as you can in a reasonable amount of hours. Previous attempts took between 4 and 8 hours;
 - Ask me if you need more information.
 
 ### Evaluation
